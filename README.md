@@ -5,7 +5,7 @@ Agentic-driven user interviews to spot accessibility issues (and more)
 - [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 ## How to use
-All depends on the `init.md` and `scope.md` files. Just copy those files from the latest attempt (recommended), adjust the scope and give it a go!
+All depends on the `init.md` and `scope.md` files. Just copy those files, adjust the scope and give it a go!
 
 ### `init.md`
 What your main agent will execute.
