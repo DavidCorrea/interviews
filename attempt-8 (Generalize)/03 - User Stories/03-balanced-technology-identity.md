@@ -1,7 +1,7 @@
 # User Story: Balanced Technology Identity Beyond Salesforce
 
 **Priority:** Medium  
-**Related Finding:** [Finding 3](../main-report.md#finding-3)
+**Related Finding:** [Finding 3](../main-report.md#3-salesforce-branding-overrepresentation)
 
 ## Story
 As a potential client who doesn't need Salesforce, I want the agency's brand to represent its full range of technology capabilities, so that I don't incorrectly assume this is primarily a Salesforce consultancy.

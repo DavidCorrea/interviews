@@ -1,7 +1,7 @@
 # User Story: Inclusive Contact Form Fields
 
 **Priority:** Medium  
-**Related Finding:** [Finding 4](../main-report.md#finding-4)
+**Related Finding:** [Finding 4](../main-report.md#4-contact-form-company-email-label-is-exclusionary)
 
 ## Story
 As a solo founder or freelancer without a corporate email address, I want the contact form to use inclusive field labels, so that I don't feel excluded or hesitant to reach out.

@@ -1,7 +1,7 @@
 # User Story: Fix Grammar Error on Services Page
 
 **Priority:** Low  
-**Related Finding:** [Finding 8](../main-report.md#finding-8)
+**Related Finding:** [Finding 8](../main-report.md#8-grammar-error-on-services-page)
 
 ## Story
 As a visitor evaluating the agency's professionalism, I want the website copy to be grammatically correct, so that I have confidence in the agency's attention to detail.

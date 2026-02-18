@@ -1,7 +1,7 @@
 # User Story: Surface Consumer Case Studies on Homepage
 
 **Priority:** High  
-**Related Finding:** [Finding 2](../main-report.md#finding-2)
+**Related Finding:** [Finding 2](../main-report.md#2-consumerstartup-case-studies-are-not-surfaced)
 
 ## Story
 As a potential client who builds consumer-facing products, I want to see consumer and startup case studies prominently displayed on the homepage, so that I can quickly determine this agency has relevant experience for my type of project.

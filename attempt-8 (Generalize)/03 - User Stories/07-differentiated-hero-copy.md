@@ -1,7 +1,7 @@
 # User Story: Differentiated Homepage Hero Copy
 
 **Priority:** Low  
-**Related Finding:** [Finding 7](../main-report.md#finding-7)
+**Related Finding:** [Finding 7](../main-report.md#7-generic-homepage-hero-copy)
 
 ## Story
 As a first-time visitor, I want the homepage headline to communicate a specific, differentiating value proposition, so that I immediately understand what makes this agency unique among the dozens of digital agencies I could visit.

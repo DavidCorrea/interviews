@@ -1,7 +1,7 @@
 # User Story: Replace Visible CAPTCHA with Frictionless Alternative
 
 **Priority:** Low  
-**Related Finding:** [Finding 9](../main-report.md#finding-9)
+**Related Finding:** [Finding 9](../main-report.md#9-captcha-adds-contact-form-friction)
 
 ## Story
 As a user trying to contact the agency, I want the contact form to protect against spam without requiring me to solve a visual challenge, so that the submission process is fast, accessible, and frictionless.

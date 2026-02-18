@@ -1,7 +1,7 @@
 # User Story: Startup-Inclusive Homepage Messaging
 
 **Priority:** High  
-**Related Findings:** [Finding 1](../main-report.md#finding-1)
+**Related Findings:** [Finding 1](../main-report.md#1-enterprise-centric-messaging-alienates-non-enterprise-users)
 
 ## Story
 As a startup founder visiting the website, I want to see messaging that acknowledges startups and early-stage companies, so that I feel the agency could be a fit for my needs — not just enterprise clients.

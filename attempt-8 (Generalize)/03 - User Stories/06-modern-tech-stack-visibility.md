@@ -1,7 +1,7 @@
 # User Story: Modern Tech Stack Visibility
 
 **Priority:** Medium  
-**Related Finding:** [Finding 6](../main-report.md#finding-6)
+**Related Finding:** [Finding 6](../main-report.md#6-listed-tech-stack-doesnt-reflect-modern-startup-ecosystem)
 
 ## Story
 As a technical founder evaluating agencies, I want to see the full breadth of modern technologies the agency works with, so that I can confirm they can build with the stack I prefer.

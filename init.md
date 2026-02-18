@@ -58,7 +58,6 @@ Create the following folder structure.
     - For each item:
       - Include a summary
       - Include a link of which part of the interview(s) and/or report(s) they're addressing
-        - Note that you might need to update the interviews/reports to add the anchors for the links to work
       - Include a priority
 
 ## User Stories Folder

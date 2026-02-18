@@ -1,7 +1,7 @@
 # User Story: Pricing Transparency for Self-Qualification
 
 **Priority:** Medium  
-**Related Finding:** [Finding 5](../main-report.md#finding-5)
+**Related Finding:** [Finding 5](../main-report.md#5-no-pricing-information-or-budget-expectations)
 
 ## Story
 As a potential client with budget constraints, I want some indication of pricing ranges or engagement tiers, so that I can self-qualify before reaching out and set appropriate expectations.
