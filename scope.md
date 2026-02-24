@@ -1,10 +1,11 @@
 # Website
-https://launchpadlab.com/
+https://www.beckershospitalreview.com/
 
 # Goals
 - Visit [the website](#website)
-- Find what do they do
-- How to contact them
+- Find the latest news regarding Pharmacy
+- Find if there's a way to subscribe to newsletters and to which
+- Search for the latest news that happened in Chicago
 
 # Personas
-- Gen-z person with the "best new ai-powered app that the world will love"
+- Screen-reader user
