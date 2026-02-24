@@ -1,20 +1,15 @@
 # Interviews
-Agentic-driven user interviews to spot accessibility issues (and more)
+Agentic-driven user interviews to spot accessibility and usability issues.
 
 ## Dependencies
 - [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 ## How to use
-All depends on the `init.md` and `scope.md` files. Just copy those files, adjust the scope and give it a go!
+All depends on the `AGENTS.md` and `SCOPE.md` files. Just copy those files, adjust the scope to your liking and give it a go!
 
-### `init.md`
-What your main agent will execute.
-
-### `scope.md`
+### `SCOPE.md`
 Configuration-like file with:
 - The target website
 - The steps to be done
 - The personas that will do the flow
-
-## Prompt idea
-> Please read `init.md` and execute accordingly. Put the outcome in XYZ folder.
+- (Optional) - The outcome directory
