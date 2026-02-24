@@ -1,11 +1,24 @@
 # Website
-https://www.beckershospitalreview.com/
+https://beckershospitalreview.com/
 
 # Goals
 - Visit [the website](#website)
-- Find the latest news regarding Pharmacy
-- Find if there's a way to subscribe to newsletters and to which
-- Search for the latest news that happened in Chicago
+- Search for the newest Chicago Post
 
 # Personas
-- Screen-reader user
+- ADHD
+- Blue-yellow color blind
+- Cognite-disability
+- Dyslexic
+- Low-contrast sensibility
+- Low-vision using screen magnifier
+- Motion-sensitivity
+- Motor-impariment
+- Non-native
+- Red-green color blind
+- Screen-reader
+- Senior
+- Situational Contrast
+- Skeptical
+- Stressed
+- Voice-control
