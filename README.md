@@ -13,3 +13,6 @@ Configuration-like file with:
 - The steps to be done
 - The personas that will do the flow
 - (Optional) - The outcome directory
+
+### Follow-up questions
+Once an interview has been done for a given persona, you can ask the main agent follow-up questions for that persona. This could be useful to get new findings.
