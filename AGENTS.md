@@ -244,6 +244,9 @@ When you build any prompt for an interview subagent (interview, follow-up, or fa
     - Otherwise use screenshots.
   - When using snapshots, use both `-i` and `-C` flags. (e.g `agent-browser snapshot -i -C`)
   - Screenshots are a very valuable source of information so take as many as you need.
+
+## Preferences for finding information
+If your persona is not a person with vision impairment, prefer using the screenshots before trying to rely on what the snapshots say.
 ```
 
 ### Follow-up Deliverable
